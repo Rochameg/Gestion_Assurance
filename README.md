@@ -1,3 +1,4 @@
+STRUCTURE DU PROJET
 /mon_projet_flask/
 │
 ├── app/ # Dossier principal de l'application
